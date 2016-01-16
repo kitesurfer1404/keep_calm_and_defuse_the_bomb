@@ -1,2 +1,2 @@
-# keep_calm_and_defuse_the_bomb
+# Keep calm and defuse the bomb
 Hardware bomb defusing game for Arduino and Raspberry Pi.
